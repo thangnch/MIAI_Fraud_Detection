@@ -2,7 +2,7 @@
 Demo of using AutoEncoder for Fraud Detection
 
 
-Video link:  https://youtu.be/wJZFy9tnR8s
+Video link:  https://youtu.be/wJZFy9tnR8s<br>
 Data link: https://bit.ly/2UHLyCY
 
 #MìAI <br>
